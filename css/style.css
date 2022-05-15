@@ -744,9 +744,9 @@ margin: auto;
     font-size: 25px;
     font-family: sans-serif;
     font-style: normal;
-    background-color:transparent; 
-    border: 5px;
-    border:white
+    background-color:white; 
+    border: 8px;
+    border:aqua
 }
 .form textarea
 {
