@@ -720,7 +720,7 @@ border-radius: 25px;
 .form
 {
     text-align: center;
-    background-image:  linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(https://www.fotografindir.net/wp-content/uploads/2019/09/en-guzel-deniz-manzaralari.jpg) no-repeat; width: 100%;height: 100vh;
+    background-image:  url(https://www.fotografindir.net/wp-content/uploads/2019/09/en-guzel-deniz-manzaralari.jpg) no-repeat; width: 100%;height: 100vh;
     background-size: cover;    
     padding-top: 100px;
     border-radius: 50px;
